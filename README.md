@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Lucas Brasielri
+#  Lucas Brasielro
 
 **`Desenvolvedor Web`**
 
