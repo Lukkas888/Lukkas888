@@ -66,12 +66,12 @@ Me chamo Lucas de Souza Brasileiro Queiroz, tenho 36 anos e sou natural de Bras√
      
 <img 
     align="left" 
-    alt="React"
-    title="React" 
+    alt="Angular"
+    title="Angular" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" 
+    />
 <img 
     align="left" 
     alt="Java" 
